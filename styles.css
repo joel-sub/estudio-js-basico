@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+    color: #383838;
+}
+input{
+    border: 1px solid #cecece;
+    padding: 1rem;
+    border-radius: 5px;
+    transition: .3 ease;
+}
+input:focus{
+    /* outline: none !important; */
+    outline: 1px solid rgb(116, 116, 116) !important;
+    
+}
+button{
+    padding: 1rem;
+    background-color: #c9c9c9;
+    border: none;
+    font-family: sans-serif;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
